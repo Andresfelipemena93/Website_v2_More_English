@@ -1,0 +1,20 @@
+.cursos-text{
+    color:rgb(11, 3, 79) !important;
+}
+
+h1, h2{
+    color:#000000;
+}
+.subtitle{
+    color:#d85654; 
+}
+
+.bg_botones{
+    background-color:#d85654; 
+}
+.text_color_boton{
+    color: #ffffff;
+}
+.text-modif{
+    color: #000000 !important;
+}
